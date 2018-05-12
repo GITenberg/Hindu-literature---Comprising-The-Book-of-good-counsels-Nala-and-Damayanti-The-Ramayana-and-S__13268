@@ -1,0 +1,75 @@
+_repo: Hindu-literature---Comprising-The-Book-of-good-counsels-Nala-and-Damayanti-The-Ramayana-and-S__13268
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Wilson, Epiphanius
+    birthdate: 1845
+    deathdate: 1916
+    gutenberg_agent_id: '4842'
+    url: http://www.gutenberg.org/2009/agents/4842
+  translators:
+  - agent_name: Arnold, Edwin, Sir
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '889'
+    url: http://www.gutenberg.org/2009/agents/889
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Arnold
+  - agent_name: Monier-Williams, Monier, Sir
+    aliases:
+    - Monier-Williams, Sir Monier
+    - Williams, Monier
+    birthdate: 1819
+    deathdate: 1899
+    gutenberg_agent_id: '2399'
+    url: http://www.gutenberg.org/2009/agents/2399
+  - agent_name: Griffith, Ralph T. H. (Ralph Thomas Hotchkin)
+    aliases:
+    - Griffiths, Ralph T. H. (Ralph Thomas Hotchkin)
+    - Griffith, Ralph Thomas Hotchkin
+    birthdate: 1826
+    deathdate: 1906
+    gutenberg_agent_id: '26788'
+    url: http://www.gutenberg.org/2009/agents/26788
+    wikipedia: http://en.wikipedia.org/wiki/Ralph_T._H._Griffith
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Kalidasa
+    alias: कालिदास
+    gutenberg_agent_id: '4247'
+    url: http://www.gutenberg.org/2009/agents/4247
+    wikipedia: http://en.wikipedia.org/wiki/K%C4%81lid%C4%81sa
+  - agent_name: Dutt, Toru
+    aliases:
+    - Datta, Taru
+    - Dutta, Torulatha
+    birthdate: 1856
+    deathdate: 1877
+    gutenberg_agent_id: '7986'
+    url: http://www.gutenberg.org/2009/agents/7986
+    wikipedia: http://en.wikipedia.org/wiki/Toru_Dutt
+  - agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: http://en.wikipedia.org/wiki/Valmiki
+description: ''
+gutenberg_bookshelf:
+- Hinduism
+- Best Books Ever Listings
+gutenberg_issued: '2004-08-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sanskrit literature -- Translations into English'
+- !lcc 'PK'
+title: 'Hindu literature : Comprising The Book of good counsels, Nala and Damayanti,
+  The Ramayana, and Sakoontala'
+url: http://www.gutenberg.org/ebooks/13268
