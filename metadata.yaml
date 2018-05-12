@@ -56,6 +56,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7984
     wikipedia: http://en.wikipedia.org/wiki/Valmiki
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13268#Hindu-literature---Comprising-The-Book-of-good-counsels-Nala-and-Damayanti-The-Ramayana-and-S_
 gutenberg_bookshelf:
 - Hinduism
 - Best Books Ever Listings
